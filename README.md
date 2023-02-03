@@ -24,6 +24,11 @@
   https://github.com/ThoughtWorksInc/each
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=stateless-future
+)](
+  https://github.com/qifun/stateless-future
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=enableIf.scala
 )](
   https://github.com/ThoughtWorksInc/enableIf.scala
@@ -57,11 +62,6 @@
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=memcontinuationed
 )](
   https://github.com/Atry/memcontinuationed
-)
-[![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=stateless-future
-)](
-  https://github.com/qifun/stateless-future
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=sbt-haxe
