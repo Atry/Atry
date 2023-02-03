@@ -252,11 +252,6 @@
   https://github.com/facebook/hhvm
 )
 [![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=folly
-)](
-  https://github.com/facebook/folly
-)
-[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=scala&repo=scala
 )](
   https://github.com/scala/scala
@@ -295,6 +290,11 @@
   https://github-readme-stats.vercel.app/api/pin/?username=milessabin&repo=shapeless
 )](
   https://github.com/milessabin/shapeless
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=folly
+)](
+  https://github.com/facebook/folly
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=scalaz&repo=scalaz
