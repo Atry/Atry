@@ -76,6 +76,11 @@
   https://github.com/Atry/nameBasedXml
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=ReactToBindingHtml.scala
+)](
+  https://github.com/Atry/ReactToBindingHtml.scala
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=hoo
 )](
   https://github.com/Atry/hoo
