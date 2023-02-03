@@ -1,4 +1,4 @@
-## Repositories created by me
+## Repositories created
 
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Binding.scala
@@ -76,11 +76,6 @@
   https://github.com/ThoughtWorksInc/bindable.scala
 )
 [![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=todo
-)](
-  https://github.com/ThoughtWorksInc/todo
-)
-[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-example
 )](
   https://github.com/ThoughtWorksInc/sbt-example
@@ -96,6 +91,26 @@
   https://github.com/ThoughtWorksInc/dsl-domains-cats
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Constructor.scala
+)](
+  https://github.com/ThoughtWorksInc/Constructor.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=LatestEvent.scala
+)](
+  https://github.com/ThoughtWorksInc/LatestEvent.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=json-stream-core
+)](
+  https://github.com/ThoughtWorksInc/json-stream-core
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=feature.scala
+)](
+  https://github.com/ThoughtWorksInc/feature.scala
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=fastring
 )](
   https://github.com/Atry/fastring
@@ -104,6 +119,16 @@
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=scalajs-all-in-one-template
 )](
   https://github.com/Atry/scalajs-all-in-one-template
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-delombok
+)](
+  https://github.com/ThoughtWorksInc/sbt-delombok
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-jdeps
+)](
+  https://github.com/ThoughtWorksInc/sbt-jdeps
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=protoc-gen-as3
@@ -116,9 +141,9 @@
   https://github.com/Atry/protoc-gen-haxe
 )
 [![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=nameBasedXml
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=nameBasedXml.scala
 )](
-  https://github.com/Atry/nameBasedXml
+  https://github.com/Atry/nameBasedXml.scala
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=ReactToBindingHtml.scala
@@ -156,7 +181,7 @@
   https://github.com/Atry/zero-log
 )
 [![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=html.scala
+  https://github-readme-stats.vercel.app/api/pin/?username=GlasslabGames&repo=html.scala
 )](
   https://github.com/Atry/html.scala
 )
@@ -175,12 +200,142 @@
 )](
   https://github.com/qifun/sbt-haxe
 )
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-ammonite-classpath
+)](
+  https://github.com/ThoughtWorksInc/sbt-ammonite-classpath
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Q.scala
+)](
+  https://github.com/ThoughtWorksInc/Q.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=DesignPattern.scala
+)](
+  https://github.com/ThoughtWorksInc/DesignPattern.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=tryt.scala
+)](
+  https://github.com/ThoughtWorksInc/tryt.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Import.scala
+)](
+  https://github.com/ThoughtWorksInc/Import.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-ammonite-classpath
+)](
+  https://github.com/ThoughtWorksInc/sbt-ammonite-classpath
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=json-stream
+)](
+  https://github.com/qifun/json-stream
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=stateless-future-akka
+)](
+  https://github.com/qifun/stateless-future-akka
+)
 
-## Repositories that I contributed to
-
+[And more]()
+## Repositories contributed
 
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=hhvm
 )](
   https://github.com/facebook/hhvm
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=folly
+)](
+  https://github.com/facebook/folly
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=scala&repo=scala
+)](
+  https://github.com/scala/scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=NixOS&repo=nixpkgs
+)](
+  https://github.com/NixOS/nixpkgs
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=HaxeFoundation&repo=haxe
+)](
+  https://github.com/HaxeFoundation/haxe
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=lampepfl&repo=dotty
+)](
+  https://github.com/lampepfl/dotty
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=sbt&repo=sbt
+)](
+  https://github.com/sbt/sbt
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=milessabin&repo=shapeless
+)](
+  https://github.com/milessabin/shapeless
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=scalaz&repo=scalaz
+)](
+  https://github.com/scalaz/scalaz
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ReactiveMongo&repo=ReactiveMongo
+)](
+  https://github.com/ReactiveMongo/ReactiveMongo
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=xerial&repo=sbt-sonatype
+)](
+  https://github.com/xerial/sbt-sonatype
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=dbtek&repo=dbyll
+)](
+  https://github.com/dbtek/dbyll
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=scalacenter&repo=scalajs-bundler
+)](
+  https://github.com/scalacenter/scalajs-bundler
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=richardlord&repo=Flint
+)](
+  https://github.com/richardlord/Flint
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=krausest&repo=js-framework-benchmark
+)](
+  https://github.com/krausest/js-framework-benchmark
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Simn&repo=hxparse
+)](
+  https://github.com/Simn/hxparse
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=HaxeFoundation&repo=dox
+)](
+  https://github.com/HaxeFoundation/dox
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=dcaoyuan&repo=nbscala
+)](
+  https://github.com/dcaoyuan/nbscala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=tastejs&repo=todomvc
+)](
+  https://github.com/tastejs/todomvc
 )
