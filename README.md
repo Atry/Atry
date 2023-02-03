@@ -86,6 +86,31 @@
   https://github.com/Atry/hoo
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=commons-continuations
+)](
+  https://github.com/Atry/commons-continuations
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=tail-call-proxy
+)](
+  https://github.com/Atry/tail-call-proxy
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=go-for-ever
+)](
+  https://github.com/Atry/go-for-ever
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=Curried.scala
+)](
+  https://github.com/Atry/Curried.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=zero-log
+)](
+  https://github.com/Atry/zero-log
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=html.scala
 )](
   https://github.com/Atry/html.scala
