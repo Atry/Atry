@@ -1,4 +1,4 @@
-- [Repositories created](#repositories-founded)
+- [Repositories founded](#repositories-founded)
 - [Repositories contributed](#repositories-contributed)
 
 ## Repositories founded
