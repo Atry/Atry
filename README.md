@@ -1,3 +1,6 @@
+- [Repositories created](#repositories-created)
+- [Repositories contributed](#repositories-contributed)
+
 ## Repositories created
 
 [![Readme Card](
@@ -241,7 +244,6 @@
   https://github.com/qifun/stateless-future-akka
 )
 
-[And more]()
 ## Repositories contributed
 
 [![Readme Card](
