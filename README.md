@@ -56,6 +56,26 @@
   https://github.com/Atry/fastring
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=scalajs-all-in-one-template
+)](
+  https://github.com/Atry/scalajs-all-in-one-template
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=protoc-gen-as3
+)](
+  https://github.com/Atry/protoc-gen-as3
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=protoc-gen-haxe
+)](
+  https://github.com/Atry/protoc-gen-haxe
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=hoo
+)](
+  https://github.com/Atry/hoo
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=Atry&repo=html.scala
 )](
   https://github.com/Atry/html.scala
