@@ -36,9 +36,54 @@
   https://github.com/qifun/stateless-future
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=microbuilder
+)](
+  https://github.com/ThoughtWorksInc/microbuilder
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=enableIf.scala
 )](
   https://github.com/ThoughtWorksInc/enableIf.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=todo
+)](
+  https://github.com/ThoughtWorksInc/todo
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=template.scala
+)](
+  https://github.com/ThoughtWorksInc/template.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=future.scala
+)](
+  https://github.com/ThoughtWorksInc/future.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=RAII.scala
+)](
+  https://github.com/ThoughtWorksInc/RAII.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Extractor.scala
+)](
+  https://github.com/ThoughtWorksInc/Extractor.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=bindable.scala
+)](
+  https://github.com/ThoughtWorksInc/bindable.scala
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=todo
+)](
+  https://github.com/ThoughtWorksInc/todo
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-example
+)](
+  https://github.com/ThoughtWorksInc/sbt-example
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=sbt-api-mappings
