@@ -245,7 +245,9 @@
 )
 
 ## Repositories contributed
+
 (This is a incomplete list including only non-trivial contribution to popular repositories)
+
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=hhvm
 )](
