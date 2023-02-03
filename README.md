@@ -24,6 +24,11 @@
   https://github.com/ThoughtWorksInc/each
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=haxe-continuation&repo=haxe-continuation
+)](
+  https://github.com/haxe-continuation/haxe-continuation
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=qifun&repo=stateless-future
 )](
   https://github.com/qifun/stateless-future
