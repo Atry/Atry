@@ -245,7 +245,7 @@
 )
 
 ## Repositories contributed
-
+(This is a incomplete list including only non-trivial contribution to popular repositories)
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=hhvm
 )](
@@ -267,6 +267,11 @@
   https://github.com/NixOS/nixpkgs
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=spring-projects&repo=spring-security
+)](
+  https://github.com/spring-projects/spring-security
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=HaxeFoundation&repo=haxe
 )](
   https://github.com/HaxeFoundation/haxe
@@ -275,6 +280,11 @@
   https://github-readme-stats.vercel.app/api/pin/?username=lampepfl&repo=dotty
 )](
   https://github.com/lampepfl/dotty
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=EdgeTranslate&repo=EdgeTranslate
+)](
+  https://github.com/EdgeTranslate/EdgeTranslate
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=sbt&repo=sbt
@@ -322,9 +332,34 @@
   https://github.com/krausest/js-framework-benchmark
 )
 [![Readme Card](
-  https://github-readme-stats.vercel.app/api/pin/?username=Simn&repo=hxparse
+  https://github-readme-stats.vercel.app/api/pin/?username=com-lihaoyi&repo=Ammonite
 )](
-  https://github.com/Simn/hxparse
+  https://github.com/com-lihaoyi/Ammonite
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=ocaml&repo=opam-repository
+)](
+  https://github.com/ocaml/opam-repository
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=fbthrift
+)](
+  https://github.com/facebook/fbthrift
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=serokell&repo=deploy-rs
+)](
+  https://github.com/serokell/deploy-rs
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=jsuereth&repo=scala-arm
+)](
+  https://github.com/jsuereth/scala-arm
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=locutusjs&repo=locutus
+)](
+  https://github.com/locutusjs/locutus
 )
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=HaxeFoundation&repo=dox
@@ -337,7 +372,37 @@
   https://github.com/dcaoyuan/nbscala
 )
 [![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=Simn&repo=hxparse
+)](
+  https://github.com/Simn/hxparse
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=sbt&repo=sbt-web
+)](
+  https://github.com/sbt/sbt-web
+)
+[![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=tastejs&repo=todomvc
 )](
   https://github.com/tastejs/todomvc
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=DefinitelyTyped&repo=DefinitelyTyped
+)](
+  https://github.com/DefinitelyTyped/DefinitelyTyped
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=jenv&repo=jenv
+)](
+  https://github.com/jenv/jenv
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=facebookresearch&repo=pytext
+)](
+  https://github.com/facebookresearch/pytext
+)
+[![Readme Card](
+  https://github-readme-stats.vercel.app/api/pin/?username=github-tools&repo=github-release-notes
+)](
+  https://github.com/github-tools/github-release-notes
 )
