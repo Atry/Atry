@@ -246,7 +246,7 @@
 
 ## Repositories contributed
 
-(This is a incomplete list including only non-trivial contribution to popular repositories)
+This is an incomplete list. See [this link](https://github.com/search?q=is%3Apr+author%3Aatry+-user%3Aatry+-user%3Athoughtworksinc) for other contributions.
 
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=hhvm
