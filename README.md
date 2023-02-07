@@ -248,4 +248,4 @@
 
 (Including repositories with 50+ stars that include commits authored by me)
 
-![](https://github-repository-contribution-stats-git-main-atry.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide=B)
+![repositories with 50+ stars that include commits authored by me](https://github-repository-contribution-stats-git-main-atry.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide=B)
