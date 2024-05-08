@@ -1,7 +1,7 @@
-- [Repositories founded](#repositories-founded)
+- [Repositories created](#repositories-created)
 - [Repositories contributed](#repositories-contributed)
 
-## Repositories founded
+## Repositories created
 
 [![Readme Card](
   https://github-readme-stats.vercel.app/api/pin/?username=ThoughtWorksInc&repo=Binding.scala
