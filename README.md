@@ -246,6 +246,6 @@
 
 ## Repositories contributed
 
-![repositories that include commits authored by me](https://github-contributor-stats.vercel.app/api?username=Atry)
+![repositories that include commits authored by me](https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true)
 
 ![another big image](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9f28c4b-450b-4c23-83ca-c31252657303/width=1328,quality=90/ComfyUI_00336_.jpeg)
