@@ -1,0 +1,29 @@
+name: Update GitHub Contributor Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants write permission to the contents of the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download GitHub Contributor Stats
+        run: curl --compressed -o github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
+
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-contributor-stats.svg
+          git commit -m "Add changes"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
