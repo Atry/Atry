@@ -17,5 +17,7 @@ jobs:
 
       - name: Download GitHub Contributor Stats
         run: curl --compressed --fail --output github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
+      - name: Check if there was an error
+        run: ! grep -q "Something went wrong!" ./github-contributor-stats.svg 
       - uses: actions4git/add-commit-push@v1
 
