@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Download GitHub Contributor Stats
-        run: curl --compressed -o github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
+        run: curl --compressed --fail --output github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
 
       - name: Commit files
         run: |
