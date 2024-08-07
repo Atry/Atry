@@ -15,11 +15,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Download GitHub Contributor Stats
-        uses: corrupt952/retry-command@v1
+        uses: nick-fields/retry@v3
         with:
           command: curl --compressed --fail --output github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
           max_attempts: 3
-          retry_interval: 60
+          timeout_minutes: 10
+          retry_wait_seconds: 60
       - name: Check if there was an error
         run: |
           ! grep -q "Something went wrong!" ./github-contributor-stats.svg 
