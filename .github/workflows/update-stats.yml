@@ -17,8 +17,12 @@ jobs:
       - name: Download GitHub Contributor Stats
         uses: nick-fields/retry@v3
         with:
-          command: curl --compressed --fail --output github-contributor-stats.svg "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false"
-          max_attempts: 3
+          command: |
+            TMP_SVG_FILE="$(mktemp)"
+            curl --compressed --fail --output "$TMP_SVG_FILE" "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false" &&
+            ! grep -q "Something went wrong!" "$TMP_SVG_FILE" &&
+            mv "$TMP_SVG_FILE" github-contributor-stats.svg
+          max_attempts: 10
           timeout_minutes: 10
           retry_wait_seconds: 60
       - name: Check if there was an error
