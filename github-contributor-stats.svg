@@ -2914,15 +2914,15 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAC/UlEQVR4nOxXvUv8QBDNuUvA4jAQLYw2glEjCioIYqUiIjZiYaGNIn5UQVv/AKuAldgJGhC00U5IaZNACqNi4xcGNIWIjUiiRt1fcSCS7F52hcvvDvK6m5m377EzezcHEUJc+aHqfxvAI7PFgswWCzJbLMhssQDGQ1tbW6urq0EQpCAPAJient7c3IwmUAzd3d0pGPoN3/cjHjBNHBoaStNTX19fdXV1JIhp4vLycktLS1quuK6urngwV54bBOa2OI57fHy0bTsF+ebmZkVRMIn4yCOEnp6eeJ5PwdbR0RHWAN4WQmhiYqLUnurr68MwxKoTZ+v+/v729raktmprazs6OrCpihr5AhzHMU0TmxoZGZFlOfH019fXnZ0dbKqpqWlsbIzIJM0WQshxHBJrfn6+CPEH29vbpBM2NjaKEBOaODg4eHl5GY/X1NScnZ0lvtapqanj4+N4HELoOI4oiiRimc5W5Sw2ESwuLhqGgU1ZliVJEonY39/veV48XldXZ9t2VVXRG0kc2729PRJX0zQSy7IsEktV1UTR5NsaHx9fW1vDphoaGkisMAxJrMnJyUTRSh550zRzBKiqGq/f398n1WuaRuUrsc0FkBZDURTf3t4ixaOjo9hiAIDneTRytE10Xff5+Rmbam9vj2y9p6enX19f8Uqe5zs7O2nkkke+gMbGRl3Xv7+/46mTk5OFhYWfj4ZhkJ7h7OwspRxtExFCw8PD2BMghA8PD4Waz8/PtrY2bJkgCEEQUGoxvMSLi4vz83NsSpbl3t7eQq9JS4ckSQMDA5RabF8Q6+vrLy8v9PW/sbKyIggCbTV9ExFCc3Nzf/PU2trKJMR2Wx8fH+/v73+wBSGM/0ctVs90Os/zPT09Nzc3TCwAwPX1dQltcRyn67rrukyUfD5fZNHAg6nlCKG7u7tcLscksbu7y6ryl5/qg4ODq6sryuJ8Pr+0tAQhW1uYm8hxnKIoh4eHvu8nVgIAZmZmWD1V+GKTPjJbLMhssaBMbf0LAAD//wA9hJ8iKLt7AAAAAElFTkSuQmCC" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADSElEQVR4nOyYXUhbZxjHnyQnicHEnBNzkkyn02y72Ew0QrxwY34MHWzDbSjiBMdkMBiMXexDV3tR+oG0grSiF6U3LZZSbL1IbWlB2iq1LbWlqaiRiphWrVZTY04+TGNMck45J7TQmtrzhkBzcX53L+dNzu/8n/d5TggGX/0I6Yf4fQskRtBCQdBCQdBCQdBCQdBCQdBCQdBCIU21sOQ+ZpBgB7V6AGAYaHev+mg6LbT+JbRNKhwAhgK+lDslWcRcCfZrFgEANMMc9qyn3CnJtP7TkHIx+zy2Td/DSHhfa1PhB/rB0dtXxu2p0kJOKx+TtmSx5YsxzBEuqrovylq//dps/ChVTsmk1U6QMhH7MIMB71xk+/OCvAyZDAD0BF5UmO/yUFQgGONOmw5Xk4Q6GNpaWHsGAIQqM0ebHaPp2cXld94FLS0jJm3moooyTJfHXV1qnjndZzLmA8DfTT9MnurRE3jn7y3xzcf++s3R33ujrzO+3PtLo6O/9/g/f/C5EZrW/xoSE4kAYMDvfRTdDoRCP+/vdq6sAcDZq2Pftx/CVcq25p9IXA0AlRYTW3Q9acxhR8k3VgsAXLg5nmKtT6WyRm4oRBi6i2JP1f3Z+XMjt6jAJgBMOReG7010tDSIxeIaa/HHOYZcMtvLXaqymAwavPiTAk7rboq19mhICRfVGb93KRpJuGdlfQMAaq2WCksRAHQPDLFapaYaLqoHc85FF6+BwlfrM6m8XsmWJkzT3W+fVTauRrXWkkpLEQ1w4uLwE5e7qtRcW1bCPyoErQ4NKeai6vdTy7Hozg1SiQQARuzTvs3ghzptQ2X5jHPB7fNfs0/m6bQNFeWs9Bivg8VXyyyT1ymzAGCLpo9S7jeuhsJhAPiz/rvzB9pwVeblO+xQVSoUoxMOALhunwSATEXG/PKq4/FSKrU6NLp4VCd9ntUdUfUMXvIHnxuyicbqLxVyue1lr41OTHNaU/GljV8PxhHx+SNJzjlxPcgkfC1jErEOV9MM46K87H6plD2FkSjDMPGlSASRaCzG+6XOa8qHuW/fhWiMfrpBvVpubb/Wp+FI4rbdhTT9GShooSBooSBooSBooSBooSBooSBooSBoofAiAAD//wZNHOSJa2jiAAAAAElFTkSuQmCC" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">text-generation-inference</text>
+        <text class="stat bold">Compute.scala</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        S
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -2942,15 +2942,15 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADSElEQVR4nOyYXUhbZxjHnyQnicHEnBNzkkyn02y72Ew0QrxwY34MHWzDbSjiBMdkMBiMXexDV3tR+oG0grSiF6U3LZZSbL1IbWlB2iq1LbWlqaiRiphWrVZTY04+TGNMck45J7TQmtrzhkBzcX53L+dNzu/8n/d5TggGX/0I6Yf4fQskRtBCQdBCQdBCQdBCQdBCQdBCQdBCIU21sOQ+ZpBgB7V6AGAYaHev+mg6LbT+JbRNKhwAhgK+lDslWcRcCfZrFgEANMMc9qyn3CnJtP7TkHIx+zy2Td/DSHhfa1PhB/rB0dtXxu2p0kJOKx+TtmSx5YsxzBEuqrovylq//dps/ChVTsmk1U6QMhH7MIMB71xk+/OCvAyZDAD0BF5UmO/yUFQgGONOmw5Xk4Q6GNpaWHsGAIQqM0ebHaPp2cXld94FLS0jJm3moooyTJfHXV1qnjndZzLmA8DfTT9MnurRE3jn7y3xzcf++s3R33ujrzO+3PtLo6O/9/g/f/C5EZrW/xoSE4kAYMDvfRTdDoRCP+/vdq6sAcDZq2Pftx/CVcq25p9IXA0AlRYTW3Q9acxhR8k3VgsAXLg5nmKtT6WyRm4oRBi6i2JP1f3Z+XMjt6jAJgBMOReG7010tDSIxeIaa/HHOYZcMtvLXaqymAwavPiTAk7rboq19mhICRfVGb93KRpJuGdlfQMAaq2WCksRAHQPDLFapaYaLqoHc85FF6+BwlfrM6m8XsmWJkzT3W+fVTauRrXWkkpLEQ1w4uLwE5e7qtRcW1bCPyoErQ4NKeai6vdTy7Hozg1SiQQARuzTvs3ghzptQ2X5jHPB7fNfs0/m6bQNFeWs9Bivg8VXyyyT1ymzAGCLpo9S7jeuhsJhAPiz/rvzB9pwVeblO+xQVSoUoxMOALhunwSATEXG/PKq4/FSKrU6NLp4VCd9ntUdUfUMXvIHnxuyicbqLxVyue1lr41OTHNaU/GljV8PxhHx+SNJzjlxPcgkfC1jErEOV9MM46K87H6plD2FkSjDMPGlSASRaCzG+6XOa8qHuW/fhWiMfrpBvVpubb/Wp+FI4rbdhTT9GShooSBooSBooSBooSBooSBooSBooSBoofAiAAD//wZNHOSJa2jiAAAAAElFTkSuQmCC" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAAC/UlEQVR4nOxXvUv8QBDNuUvA4jAQLYw2glEjCioIYqUiIjZiYaGNIn5UQVv/AKuAldgJGhC00U5IaZNACqNi4xcGNIWIjUiiRt1fcSCS7F52hcvvDvK6m5m377EzezcHEUJc+aHqfxvAI7PFgswWCzJbLMhssQDGQ1tbW6urq0EQpCAPAJient7c3IwmUAzd3d0pGPoN3/cjHjBNHBoaStNTX19fdXV1JIhp4vLycktLS1quuK6urngwV54bBOa2OI57fHy0bTsF+ebmZkVRMIn4yCOEnp6eeJ5PwdbR0RHWAN4WQmhiYqLUnurr68MwxKoTZ+v+/v729raktmprazs6OrCpihr5AhzHMU0TmxoZGZFlOfH019fXnZ0dbKqpqWlsbIzIJM0WQshxHBJrfn6+CPEH29vbpBM2NjaKEBOaODg4eHl5GY/X1NScnZ0lvtapqanj4+N4HELoOI4oiiRimc5W5Sw2ESwuLhqGgU1ZliVJEonY39/veV48XldXZ9t2VVXRG0kc2729PRJX0zQSy7IsEktV1UTR5NsaHx9fW1vDphoaGkisMAxJrMnJyUTRSh550zRzBKiqGq/f398n1WuaRuUrsc0FkBZDURTf3t4ixaOjo9hiAIDneTRytE10Xff5+Rmbam9vj2y9p6enX19f8Uqe5zs7O2nkkke+gMbGRl3Xv7+/46mTk5OFhYWfj4ZhkJ7h7OwspRxtExFCw8PD2BMghA8PD4Waz8/PtrY2bJkgCEEQUGoxvMSLi4vz83NsSpbl3t7eQq9JS4ckSQMDA5RabF8Q6+vrLy8v9PW/sbKyIggCbTV9ExFCc3Nzf/PU2trKJMR2Wx8fH+/v73+wBSGM/0ctVs90Os/zPT09Nzc3TCwAwPX1dQltcRyn67rrukyUfD5fZNHAg6nlCKG7u7tcLscksbu7y6ryl5/qg4ODq6sryuJ8Pr+0tAQhW1uYm8hxnKIoh4eHvu8nVgIAZmZmWD1V+GKTPjJbLMhssaBMbf0LAAD//wA9hJ8iKLt7AAAAAElFTkSuQmCC" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">Compute.scala</text>
+        <text class="stat bold">text-generation-inference</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="4" y="18.5">
-        S+
+      <g class="rank-text"><text x="7.2" y="18.5">
+        S
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
