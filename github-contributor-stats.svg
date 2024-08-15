@@ -1241,8 +1241,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        A+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -1521,8 +1521,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        B+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -1962,15 +1962,15 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFb0lEQVRo3u2ZW2xTdRzHP6ft6X0ro2NzV9ggEXbR4UCQaUhEIuiDPqBymzAFo4YnNnyRFxOjMTE+SIKJiEGBKCxMHohEyOZUAkEuwriuLQPWXdjadevarV172uMDgYSst90KW/Z7PL9ff9/z6fn/f7//+R3h7WNrZaaAKZgiNg0yDTINMg0yDTINMhZTJVsw15hDWUYZ82bMI9uQhUljQqPUIMsyPsmHO+DG4XPS4e2g1WOnxd1C10AXMvLjB1EKSpZlL+O1gtUUmgqixulFPWadmUJT4SPX+wP93HQ1c9V5lT/tjQTCgeSDFJuLqCquIi8lN+HfhMIhpGCI8BAEh0KEgkqMfTO5dKaJfo0brVmXPBCVQsWG+etZPWcVgiDEje/x9dDjdaEa0qIJ6hBRP/Sds59l9+lvGQwMIBrE5IEYRAM15dUUmRfEjbX2WbF03yKHfLLF4U/t2PWjHLj4E7J8f48EB4JIPgmVTjWxIAbRwM4ln8bcCwC9/l7qLEeZLRSy2LgsYkzdlVoOXTo47LrP4SMlP2XiQESFSE15dVyI813nOWlrYE3GOkwqU8SYeuuJiBAAfpcPY64RQSFMDEhV8aa4y+k321Fa7t1lU/YWVEJk+WbHTX789/uoOeSQjN/lR5euG/+G+GJ2BSvyV8SM2X/jIPbuTjbmbI4KMRgYZNc/3yCFpZi5/E7f+Hd2s9bMeyVVMWMOW2pxuHp4J2s9AtGr2IGL+3AMdMfVDA4EkQal8QMRENha+j4G0RA1ptHeyM1OK+uyKmNCWBzNNNhOJqztcw6OH0hFTgULMxZG9dv6bPxu+4PNuVtQCsro616W+fn83odlNhHzu/zIIXnsICnqFN4tqozq9wa97Lm8l6rsrWgV2pi5zraeweq0jEhfDsn4e/1jB9k4fz0mdWpU/w9X9vL6zDcwq9Nj5gnLYWov/zKqe/A5fGMDKUkvYXne8qj++tYG0kNPMd9YFDfX6TunaHPbR3Uf0mCQ4EBwdCBapZYPSrdE3bgdA538Z29iZfqquLnCcpi6K4fHtE/9Tt/oQDYsWE+mPjNyWQwHOXTtMG9lro1ZoR7Yqdt/0+5uGxuIyz9ykEWZ5ayc/UpU/xFLHS+nvopOqY+/LMISR5oOjbmPyWF5ZCCZ+kw+evbDqP/06Y4zZAZzydJkJ5Sv3nqCe57O5L6z61V6diyqxigaIzezXgsuh4diY2lC+TxDHmov/5rc4YNaqaZmUTV5KXkR/bfdt2luvcXzqUsTFj54YR+eof7kDR+0Si01i7ZTbI5cRq/33KC1vYMlqRUJi15oO0fjrYbkTVHStGnsKK9m7oy5w9+r5RCNd/9CN5DKcymLExbs9nbx3eldcaci4wZSml7KtrKPmaGZMazuX3Y0Ye/uoFS7EIPekLCYZ6ifrxo+H9clFRVEVIhUPl3JyoIVKAQFsgw+aZAubzcuby99Hg/54hyWGgpHJOT2u/mi/rNRd/ARg0hhCZ07FecdL4IAsnx/GRmEmRiYSZ5u5CL2vla+bvxy3EptQlVLRmZP8246+tt5cKKOdfyO2aiQabCdZOfxTyYUAkCI9DFUDskErQG2vbCd0qxnRpW4pcfG/gv7uN51NRnDzMggAB67B7/Dx0sFy3mzZA05pviTQiks0dRxiROW41xqvzjulWlUIJJfwnWt5+Hr7Nz0eZRmlTEnrQCz3oxapUEKB3H73LT3t2FzWrh6rwnvkJfHYVHLr0qrQp2iJuAJICNjc1qxOa08qRbziKLL0DNZLCaIxqRBqVZOfhAE0M3STQEQQJuue2TGOmlBFCoFmjTN5AcB0M3STw0Q0SAiGsTJD3L/qeimBogmTYtC9eR+lv8fLr4LiQ4fiV8AAAAASUVORK5CYII=" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KK57xp4qh8IaAdRlheVnkWGJVGRvbOCe+BgnjmgDelljgiaWaRI41GWZzgD6k1Hb3trdgm2uYZgOvlyBv5V8+63qV7q8vm313LdOTkBmyi/Rfur+AqCzj+ySrcwboLkdJYSUcf8AAhzQB9IUV41pPj7XNObNxOdQgXOYpgAxHs4Gc/XNel+HvFWl+JbYSWMxEu3c9vJgSIPUjuPcZFAG1RRRQBDd3UNjZz3dw22GCNpHb0UDJrwLxz4qu/F89tFJaiDT4pC0Kk/fbtuOc8/QD655951Owj1TS7qwlYqlxE0RZeq5GMivB9Y0G/0aQ2GoREFcBJ1U7JMdGU/hnHUUAZFraT28IDS79oJ6Abuc9AMDHTjrVGWbUkv/APR5nmQIhaKSIBS2BuCkDI5JAJJHHPtrQLJ5u9PmVj8wz0P/AOv9PoKYvyKV9CQKTGmWl4FS+HL/APsbxBYX4fZFBc4lJ6CJiVbPsAc/8BFU4n3SgA1NpWm3uq6g2nW1nLM7yYZhGTGqsThmbGAMZznng4B4yxH0XRVewtjZ6dbWrSGUwxLGZD1bAAz+OKsUAFU9V0y31jTJ7C5B8qZcFlxuU9mGe4OCKuUUAfOmtaXe+G/EEum3Eys4VXEkYwJFOcNg5x0PHt3qsQMAdq6D4jyR3Hjq9ZGz5EMULcYwwXd+PDisL7Ffmy+2LaStbYOJSu1WPoCcAntgd6AI7RcStz711ng2HUU1+z1C0RktI5ClzO/yxtHghlz/ABYODxnG3JxVTwt4RuNZ8+61KRrHSoCTJMGwz4zwDjjt781s6t4h+1RDTNKQ2+nxqIx2Z0HA3ei+i/5FRjzK/RdR8sublS17HrQIYAggg8gilrws6TqmTsivdvbDOOPpSf2Rq3/PK+/77f8AxrPnXmb/AFd/zL7z3WiiiqOc8d8QQQy/FWSKSJHjkuI96MoIb9yvUd6z7iR5bn947PtQhdxzgA4GPwrU13/krR/6+I//AEQtZMn/AB8v/ut/Om/4Uvl+Zvhf48fn+R2njX9x4Y0iGL93E2NyJwp+XPI+vNc14TjSTXbFZEV1ac5DDIOM4/kK6Xx1/wAi9o34f+gVznhD/kP6f/18N/Wrq/wI+oYX+JU/ws7y6/4/J/8Aro386hqa6/4/J/8Aro386hrMwP/Z" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">ReactiveMongo</text>
+        <text class="stat bold">mach-nix</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="4" y="18.5">
-        A+
+      <g class="rank-text"><text x="7.2" y="18.5">
+        S
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -1990,15 +1990,15 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APf6KK57xp4qh8IaAdRlheVnkWGJVGRvbOCe+BgnjmgDelljgiaWaRI41GWZzgD6k1Hb3trdgm2uYZgOvlyBv5V8+63qV7q8vm313LdOTkBmyi/Rfur+AqCzj+ySrcwboLkdJYSUcf8AAhzQB9IUV41pPj7XNObNxOdQgXOYpgAxHs4Gc/XNel+HvFWl+JbYSWMxEu3c9vJgSIPUjuPcZFAG1RRRQBDd3UNjZz3dw22GCNpHb0UDJrwLxz4qu/F89tFJaiDT4pC0Kk/fbtuOc8/QD655951Owj1TS7qwlYqlxE0RZeq5GMivB9Y0G/0aQ2GoREFcBJ1U7JMdGU/hnHUUAZFraT28IDS79oJ6Abuc9AMDHTjrVGWbUkv/APR5nmQIhaKSIBS2BuCkDI5JAJJHHPtrQLJ5u9PmVj8wz0P/AOv9PoKYvyKV9CQKTGmWl4FS+HL/APsbxBYX4fZFBc4lJ6CJiVbPsAc/8BFU4n3SgA1NpWm3uq6g2nW1nLM7yYZhGTGqsThmbGAMZznng4B4yxH0XRVewtjZ6dbWrSGUwxLGZD1bAAz+OKsUAFU9V0y31jTJ7C5B8qZcFlxuU9mGe4OCKuUUAfOmtaXe+G/EEum3Eys4VXEkYwJFOcNg5x0PHt3qsQMAdq6D4jyR3Hjq9ZGz5EMULcYwwXd+PDisL7Ffmy+2LaStbYOJSu1WPoCcAntgd6AI7RcStz711ng2HUU1+z1C0RktI5ClzO/yxtHghlz/ABYODxnG3JxVTwt4RuNZ8+61KRrHSoCTJMGwz4zwDjjt781s6t4h+1RDTNKQ2+nxqIx2Z0HA3ei+i/5FRjzK/RdR8sublS17HrQIYAggg8gilrws6TqmTsivdvbDOOPpSf2Rq3/PK+/77f8AxrPnXmb/AFd/zL7z3WiiiqOc8d8QQQy/FWSKSJHjkuI96MoIb9yvUd6z7iR5bn947PtQhdxzgA4GPwrU13/krR/6+I//AEQtZMn/AB8v/ut/Om/4Uvl+Zvhf48fn+R2njX9x4Y0iGL93E2NyJwp+XPI+vNc14TjSTXbFZEV1ac5DDIOM4/kK6Xx1/wAi9o34f+gVznhD/kP6f/18N/Wrq/wI+oYX+JU/ws7y6/4/J/8Aro386hqa6/4/J/8Aro386hrMwP/Z" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFb0lEQVRo3u2ZW2xTdRzHP6ft6X0ro2NzV9ggEXbR4UCQaUhEIuiDPqBymzAFo4YnNnyRFxOjMTE+SIKJiEGBKCxMHohEyOZUAkEuwriuLQPWXdjadevarV172uMDgYSst90KW/Z7PL9ff9/z6fn/f7//+R3h7WNrZaaAKZgiNg0yDTINMg0yDTINMhZTJVsw15hDWUYZ82bMI9uQhUljQqPUIMsyPsmHO+DG4XPS4e2g1WOnxd1C10AXMvLjB1EKSpZlL+O1gtUUmgqixulFPWadmUJT4SPX+wP93HQ1c9V5lT/tjQTCgeSDFJuLqCquIi8lN+HfhMIhpGCI8BAEh0KEgkqMfTO5dKaJfo0brVmXPBCVQsWG+etZPWcVgiDEje/x9dDjdaEa0qIJ6hBRP/Sds59l9+lvGQwMIBrE5IEYRAM15dUUmRfEjbX2WbF03yKHfLLF4U/t2PWjHLj4E7J8f48EB4JIPgmVTjWxIAbRwM4ln8bcCwC9/l7qLEeZLRSy2LgsYkzdlVoOXTo47LrP4SMlP2XiQESFSE15dVyI813nOWlrYE3GOkwqU8SYeuuJiBAAfpcPY64RQSFMDEhV8aa4y+k321Fa7t1lU/YWVEJk+WbHTX789/uoOeSQjN/lR5euG/+G+GJ2BSvyV8SM2X/jIPbuTjbmbI4KMRgYZNc/3yCFpZi5/E7f+Hd2s9bMeyVVMWMOW2pxuHp4J2s9AtGr2IGL+3AMdMfVDA4EkQal8QMRENha+j4G0RA1ptHeyM1OK+uyKmNCWBzNNNhOJqztcw6OH0hFTgULMxZG9dv6bPxu+4PNuVtQCsro616W+fn83odlNhHzu/zIIXnsICnqFN4tqozq9wa97Lm8l6rsrWgV2pi5zraeweq0jEhfDsn4e/1jB9k4fz0mdWpU/w9X9vL6zDcwq9Nj5gnLYWov/zKqe/A5fGMDKUkvYXne8qj++tYG0kNPMd9YFDfX6TunaHPbR3Uf0mCQ4EBwdCBapZYPSrdE3bgdA538Z29iZfqquLnCcpi6K4fHtE/9Tt/oQDYsWE+mPjNyWQwHOXTtMG9lro1ZoR7Yqdt/0+5uGxuIyz9ykEWZ5ayc/UpU/xFLHS+nvopOqY+/LMISR5oOjbmPyWF5ZCCZ+kw+evbDqP/06Y4zZAZzydJkJ5Sv3nqCe57O5L6z61V6diyqxigaIzezXgsuh4diY2lC+TxDHmov/5rc4YNaqaZmUTV5KXkR/bfdt2luvcXzqUsTFj54YR+eof7kDR+0Si01i7ZTbI5cRq/33KC1vYMlqRUJi15oO0fjrYbkTVHStGnsKK9m7oy5w9+r5RCNd/9CN5DKcymLExbs9nbx3eldcaci4wZSml7KtrKPmaGZMazuX3Y0Ye/uoFS7EIPekLCYZ6ifrxo+H9clFRVEVIhUPl3JyoIVKAQFsgw+aZAubzcuby99Hg/54hyWGgpHJOT2u/mi/rNRd/ARg0hhCZ07FecdL4IAsnx/GRmEmRiYSZ5u5CL2vla+bvxy3EptQlVLRmZP8246+tt5cKKOdfyO2aiQabCdZOfxTyYUAkCI9DFUDskErQG2vbCd0qxnRpW4pcfG/gv7uN51NRnDzMggAB67B7/Dx0sFy3mzZA05pviTQiks0dRxiROW41xqvzjulWlUIJJfwnWt5+Hr7Nz0eZRmlTEnrQCz3oxapUEKB3H73LT3t2FzWrh6rwnvkJfHYVHLr0qrQp2iJuAJICNjc1qxOa08qRbziKLL0DNZLCaIxqRBqVZOfhAE0M3STQEQQJuue2TGOmlBFCoFmjTN5AcB0M3STw0Q0SAiGsTJD3L/qeimBogmTYtC9eR+lv8fLr4LiQ4fiV8AAAAASUVORK5CYII=" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">mach-nix</text>
+        <text class="stat bold">ReactiveMongo</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        S
+      <g class="rank-text"><text x="4" y="18.5">
+        A+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -2242,9 +2242,9 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APVpHL5ANU5Jo7eJ57iVUiQEszHAApPNHU5+tcX8Rb2SHQoEVjskuAGx3ABOP0/SsZGsY3Ev/inFDdtBYaW9xGMjzZJfLzj0G01m2/xUnecpf6dGkWcHy2OQPx6/p9aq23hITeEv7UnmEN5IvmwBjgKnpj3HOe3Fcq0TqxSdV8zBAK9GA5BGOCOhBHrUczNlTij2qx1WO8WOWGQNC43Lj0rSadWTKnk15h4XuZ9P820nVo2Ta209sjp/KvQLWffFuI4zx9K0i7mc42ZcEzgY3Cjz3/vCoA7EA8/pS729/wBKdhaEjqcdKzNa0FNY0d7VgBJkSRluQHHTPseh9jWxnLDNSeaFyTgADqadrkN22KGh2Mb6RFbTO0u6MOFkUEYI+mOM4/CuJ+JWnR2kumNGoDfMpI7KMYH5tTfDXj+1hvpNOv0lZZ7kmzVF3cs33CDxjJ4J6c1J8TtUtIra3S7kEd2Ruht1GW2lh8zHoB8uP8cVjZt2Om6Wpzdvr/27XPNZBGJkCKP93/HmvRtInDwBSCMcc14wq+XOro2AjZU/Ugg/rXqPh+/V4Y2fqwB5q4CqrQ6wDil21GJ4sDpS+dH/ALNaWOcnDgdTXlPir4rMk9xY6PbxSQrmNrmQkh+x2gY/PNdv4uu5LDwpqdwvDCBlBPYt8v8AWvnCT7wWtKcb7kVHZ6HbeDZY9Q+ImjySBSkgkc54APluc/gR+lRfEXxJD4l8Wy3FrtNpbxi3hcfxgEkt+JJx7VyNvNNbS74ZGjbay5BxwwKkfiCRS5A/CqjTtK5EqjasalpdlrZo2JDIvB9R2qbTvFWp6bdFoZfMh3bmik5GPQHqPwrEMhVS1RwtlznvTUEmOVWTil2PZ4PH2iPbxu18I2ZQSjA5U46HipP+E70L/oIp/wB8n/CvGDCpJNJ5K0vZIPas+hviL/yIWq/SP/0alfOr/wCtNfRXxF/5EHVfpH/6NSvnV/8AWmnT2CpuSNTD96ntTD96tDIJOgpsX3xTpOgpsX3xUvcfQsUUUVRJ/9k=" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEPUlEQVR4nMSZSWgkVRjHf1Vd3Z3O3ns6PUsmI4iiqKjoTUU8CC4Hb+KCBxERvOhBRBH1OOJFUBAEPSgeBreLMxeXk6AwIiI4DOKMo9OzpJJUpmMn3Z0ueeWLRKZrfa+6/xBIV71v+b/v1Xvf9z3rzbPfkCZOnDmJvenEEZkAngceBg4DNnAMeBU44ydkavE2AFfVmnGGTwJiZl8HrgFyQAN4QswJcIOfYOpEZgvTVKbnow5/AbjN510JeM9PMHUieFHZF3XoAyHvbwaGhngkRGYmJqnPlqIMjRK6qWEPR0JE4HA11rcSG1aEMWIq7waKwJ/AV8BWXENT+QKLcxXOOSvJPA1BGJHn5La3N5wXgKeAz+MaW642aTk2Lm58T0MQtLSeBd4YsibrwFHgrrjGCrk8zWI1vpcR4EdEPH85QE5E8qUkBpcri5iG/k/TT2MNqITIXpfEYD6bY3+xlkQ0EH5EjAiyUTaKoViqNMiYeqMysu13L3JWloOlBa06x0JE4GB5AcvMaNM3NiJWxvKWmC6MjYjAgVKdXCbxp/Y/jJVIxsxwqLKoRVcaRMQUPwi8D/wq0xlxlIvq6gfgCHDj7uB9xRoTVk7ZqE4i10onRT72GfA4cLU4OuT7WeAWWf39CHwhVpdpmlqiokpkBngS+A74RTpZjyh7P/AT8NhisUIhm1dyRIWImOEW8C5we0Idov74wDTMo8vVZlgmEQgVIpZfkRMXvZ3+QwN38DNQVnFmLBi4A+y2Q2vd5lJ7jYHrKh31IyXiui5Op+3VJBc2VkUktOkeCZHN7Q7nHdsj0Oltp2IjNSLb/S7nnVVazgqXt/5Oy8x/0EqkP9jh0saaN/Orm04KBa0/lImIdW9vOp7zgsSOO9DjWUwkJuK6bvfUxbPtlmOXuv2eXq8SIPE5YhhGe6vXvb7b7x3T5IsIZeJtTClFOVRunAPuBZ4Rm1NCNaeBV4Q64K+kvigRmSlMUZmaE/++DdwkO+lR0AE+Au4BloHXgD9UfFH+2EWVt/Lv/ccp2eu6A3gUuFPO8u5krQPfA58CH8vf2qBMpDg1y3xhmvVOe/fRt/IPeb9RlBHYULUVBC31SEA90ZUt1lRJoItIeXqOmfykDlWJoYWIYRhaOyJJoK3Urc+WmMxN6FIXG9qIeFEpjy8qWrsojfkyebWOyE5SQa1ETMNkqaxU6J0Med+RXZorbatYHYZmsUo2effwSEhU3gKGFjfaiWTMjEqn/WvgEdnM24uBJPGin2AqFeL+Uo3TdssrtBJApC9fAvfJPGwNOC5TIF+kQsTKWN6t1O92K6kKEZEP4wik1sQ+UF5I5a7QD36WotyjXw56mbOyNOfTucEdBj8iazLlDsLxMOVLlQWMSNeR6giK/dMBWetvIdfXHiayeRpzibugsRBE5ARwK/CJPIgEVoF3ZNP6YhQDo0om/wkAAP//m6vvcfbU4UoAAAAASUVORK5CYII=" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">better-monadic-for</text>
+        <text class="stat bold">flake-parts</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
@@ -2270,9 +2270,9 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEPUlEQVR4nMSZSWgkVRjHf1Vd3Z3O3ns6PUsmI4iiqKjoTUU8CC4Hb+KCBxERvOhBRBH1OOJFUBAEPSgeBreLMxeXk6AwIiI4DOKMo9OzpJJUpmMn3Z0ueeWLRKZrfa+6/xBIV71v+b/v1Xvf9z3rzbPfkCZOnDmJvenEEZkAngceBg4DNnAMeBU44ydkavE2AFfVmnGGTwJiZl8HrgFyQAN4QswJcIOfYOpEZgvTVKbnow5/AbjN510JeM9PMHUieFHZF3XoAyHvbwaGhngkRGYmJqnPlqIMjRK6qWEPR0JE4HA11rcSG1aEMWIq7waKwJ/AV8BWXENT+QKLcxXOOSvJPA1BGJHn5La3N5wXgKeAz+MaW642aTk2Lm58T0MQtLSeBd4YsibrwFHgrrjGCrk8zWI1vpcR4EdEPH85QE5E8qUkBpcri5iG/k/TT2MNqITIXpfEYD6bY3+xlkQ0EH5EjAiyUTaKoViqNMiYeqMysu13L3JWloOlBa06x0JE4GB5AcvMaNM3NiJWxvKWmC6MjYjAgVKdXCbxp/Y/jJVIxsxwqLKoRVcaRMQUPwi8D/wq0xlxlIvq6gfgCHDj7uB9xRoTVk7ZqE4i10onRT72GfA4cLU4OuT7WeAWWf39CHwhVpdpmlqiokpkBngS+A74RTpZjyh7P/AT8NhisUIhm1dyRIWImOEW8C5we0Idov74wDTMo8vVZlgmEQgVIpZfkRMXvZ3+QwN38DNQVnFmLBi4A+y2Q2vd5lJ7jYHrKh31IyXiui5Op+3VJBc2VkUktOkeCZHN7Q7nHdsj0Oltp2IjNSLb/S7nnVVazgqXt/5Oy8x/0EqkP9jh0saaN/Orm04KBa0/lImIdW9vOp7zgsSOO9DjWUwkJuK6bvfUxbPtlmOXuv2eXq8SIPE5YhhGe6vXvb7b7x3T5IsIZeJtTClFOVRunAPuBZ4Rm1NCNaeBV4Q64K+kvigRmSlMUZmaE/++DdwkO+lR0AE+Au4BloHXgD9UfFH+2EWVt/Lv/ccp2eu6A3gUuFPO8u5krQPfA58CH8vf2qBMpDg1y3xhmvVOe/fRt/IPeb9RlBHYULUVBC31SEA90ZUt1lRJoItIeXqOmfykDlWJoYWIYRhaOyJJoK3Urc+WmMxN6FIXG9qIeFEpjy8qWrsojfkyebWOyE5SQa1ETMNkqaxU6J0Med+RXZorbatYHYZmsUo2effwSEhU3gKGFjfaiWTMjEqn/WvgEdnM24uBJPGin2AqFeL+Uo3TdssrtBJApC9fAvfJPGwNOC5TIF+kQsTKWN6t1O92K6kKEZEP4wik1sQ+UF5I5a7QD36WotyjXw56mbOyNOfTucEdBj8iazLlDsLxMOVLlQWMSNeR6giK/dMBWetvIdfXHiayeRpzibugsRBE5ARwK/CJPIgEVoF3ZNP6YhQDo0om/wkAAP//m6vvcfbU4UoAAAAASUVORK5CYII=" width="25" height="25" clip-path="url(#myCircle)"/>
+      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APVpHL5ANU5Jo7eJ57iVUiQEszHAApPNHU5+tcX8Rb2SHQoEVjskuAGx3ABOP0/SsZGsY3Ev/inFDdtBYaW9xGMjzZJfLzj0G01m2/xUnecpf6dGkWcHy2OQPx6/p9aq23hITeEv7UnmEN5IvmwBjgKnpj3HOe3Fcq0TqxSdV8zBAK9GA5BGOCOhBHrUczNlTij2qx1WO8WOWGQNC43Lj0rSadWTKnk15h4XuZ9P820nVo2Ta209sjp/KvQLWffFuI4zx9K0i7mc42ZcEzgY3Cjz3/vCoA7EA8/pS729/wBKdhaEjqcdKzNa0FNY0d7VgBJkSRluQHHTPseh9jWxnLDNSeaFyTgADqadrkN22KGh2Mb6RFbTO0u6MOFkUEYI+mOM4/CuJ+JWnR2kumNGoDfMpI7KMYH5tTfDXj+1hvpNOv0lZZ7kmzVF3cs33CDxjJ4J6c1J8TtUtIra3S7kEd2Ruht1GW2lh8zHoB8uP8cVjZt2Om6Wpzdvr/27XPNZBGJkCKP93/HmvRtInDwBSCMcc14wq+XOro2AjZU/Ugg/rXqPh+/V4Y2fqwB5q4CqrQ6wDil21GJ4sDpS+dH/ALNaWOcnDgdTXlPir4rMk9xY6PbxSQrmNrmQkh+x2gY/PNdv4uu5LDwpqdwvDCBlBPYt8v8AWvnCT7wWtKcb7kVHZ6HbeDZY9Q+ImjySBSkgkc54APluc/gR+lRfEXxJD4l8Wy3FrtNpbxi3hcfxgEkt+JJx7VyNvNNbS74ZGjbay5BxwwKkfiCRS5A/CqjTtK5EqjasalpdlrZo2JDIvB9R2qbTvFWp6bdFoZfMh3bmik5GPQHqPwrEMhVS1RwtlznvTUEmOVWTil2PZ4PH2iPbxu18I2ZQSjA5U46HipP+E70L/oIp/wB8n/CvGDCpJNJ5K0vZIPas+hviL/yIWq/SP/0alfOr/wCtNfRXxF/5EHVfpH/6NSvnV/8AWmnT2CpuSNTD96ntTD96tDIJOgpsX3xTpOgpsX3xUvcfQsUUUVRJ/9k=" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
-        <text class="stat bold">flake-parts</text>
+        <text class="stat bold">better-monadic-for</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
@@ -2698,7 +2698,7 @@
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
       <g class="rank-text"><text x="7.2" y="18.5">
-        B
+        A
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -2781,8 +2781,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        B+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -4685,8 +4685,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        B+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -4797,8 +4797,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        B+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -8045,8 +8045,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -9389,8 +9389,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -9417,8 +9417,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
@@ -9445,8 +9445,8 @@
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
       <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="7.2" y="18.5">
-        B
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
        </text></g>
     </g>
     <g data-testid="rank-circle" transform="translate(285, 0)">
