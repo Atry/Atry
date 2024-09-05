@@ -26,4 +26,4 @@ jobs:
           timeout_minutes: 10
           retry_wait_seconds: 60
       - uses: actions4git/add-commit-push@v1
-
+        continue-on-error: true
