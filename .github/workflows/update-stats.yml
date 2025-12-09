@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Contributor Stats
-        uses: Atry/github-repository-contribution-stats@github-action
+        uses: Atry/github-repository-contribution-stats/action@github-action
         with:
           username: Atry
           combine-all-yearly-contributions: 'true'
