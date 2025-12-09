@@ -19,12 +19,11 @@ jobs:
         uses: Atry/github-repository-contribution-stats@github-action
         with:
           username: Atry
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           combine-all-yearly-contributions: 'true'
           hide-contributor-rank: 'false'
           output-file: 'github-contributor-stats.svg'
         env:
-          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions4git/add-commit-push@v1
         continue-on-error: true
