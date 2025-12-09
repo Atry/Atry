@@ -19,7 +19,7 @@ jobs:
         uses: Atry/github-repository-contribution-stats@github-action
         with:
           username: Atry
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           combine-all-yearly-contributions: 'true'
           hide-contributor-rank: 'false'
           output-file: 'github-contributor-stats.svg'
