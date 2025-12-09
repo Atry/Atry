@@ -13,17 +13,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Download GitHub Contributor Stats
-        uses: nick-fields/retry@v3
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contributor Stats
+        uses: Atry/github-repository-contribution-stats@github-action
         with:
-          command: |
-            TMP_SVG_FILE="$(mktemp)"
-            curl --compressed --fail --output "$TMP_SVG_FILE" "https://github-contributor-stats.vercel.app/api?username=Atry&combine_all_yearly_contributions=true&hide_contributor_rank=false" &&
-            ! grep -q "Something went wrong!" "$TMP_SVG_FILE" &&
-            mv "$TMP_SVG_FILE" github-contributor-stats.svg
-          max_attempts: 10
-          timeout_minutes: 10
-          retry_wait_seconds: 60
+          username: Atry
+          token: ${{ secrets.GITHUB_TOKEN }}
+          combine-all-yearly-contributions: 'true'
+          hide-contributor-rank: 'false'
+          output-file: 'github-contributor-stats.svg'
+
       - uses: actions4git/add-commit-push@v1
         continue-on-error: true
